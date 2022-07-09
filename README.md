@@ -5,4 +5,5 @@ The branches are:
    
      Python weekly data exercises
      Project proposal and pitch
-     Project files
+     Project Data files and Widget
+     Project Final Report and Jupyter files
