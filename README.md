@@ -3,3 +3,6 @@ exercises and final project (showcasing Python and Machine Learning) of the cour
 
 The branches are:
    
+     Python weekly data exercises
+     Project proposal and pitch
+     Project files
